@@ -1,3 +1,5 @@
+# Authored by KRT_, KRT_c0c4!N3, kurtunderscore, kurtnextdoor
+
 def multiplication(x,y)
 	z = y #Keep the original second number
 	while x != 1 do #Keeping track of how many times to add first number
